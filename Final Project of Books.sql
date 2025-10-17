@@ -221,27 +221,3 @@ LEFT JOIN Orders o
 ON b.book_id = o.book_id
 GROUP BY b.book_id
 ORDER BY b.book_id;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
